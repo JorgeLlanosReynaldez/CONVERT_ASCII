@@ -9,13 +9,13 @@ Este proyecto es una aplicación de consola en C# que convierte una imagen en un
 - Genera un archivo de texto con el arte ASCII en una carpeta de salida específica.
 
 ## Estructura del Proyecto
-├── IMAGEN
-│ └── imagen.jpg # Imagen de entrada
-├── ASCII
-│ └── OutImagen.txt # Salida del arte ASCII
-├── bin
-├── obj
-└── Program.cs # Código fuente principal
+-├── IMAGEN
+-│ └── imagen.jpg # Imagen de entrada
+-├── ASCII
+-│ └── OutImagen.txt # Salida del arte ASCII
+-├── bin
+-├── obj
+-└── Program.cs # Código fuente principal
 
 ## Requisitos Previos
 
